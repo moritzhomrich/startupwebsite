@@ -1,0 +1,24 @@
+.card {
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+   	padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 4px;
+    margin: 25px 0;
+    width: auto;
+}
+
+.card img {
+	height: auto;
+    width: 300px;
+    border-radius: 4px;
+}
+
+.card h3 {
+	font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    flex-grow: 1;
+    padding-left: 20px;
+    font-size: 30px;
+}
